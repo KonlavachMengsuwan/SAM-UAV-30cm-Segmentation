@@ -1,6 +1,7 @@
 # UAV 30 cm Segmentation with SAM (`.dlpk`) in ArcGIS Pro
+<img width="1566" height="1022" alt="image" src="https://github.com/user-attachments/assets/e209f225-1570-4cc7-9116-e1656fc936d8" />
 
-> **Goal:** Apply a **pretrained SAM model** (`SAM.dlpk`) to 30 cm UAV RGB imagery to segment small objects (notably **cars** and **trees**) and study how inference parameters influence **recall**, **precision**, and **runtime**.
+**Goal:** Apply a **pretrained SAM model** (`SAM.dlpk`) to 30 cm UAV RGB imagery to segment small objects (notably **cars** and **trees**) and study how inference parameters influence **recall**, **precision**, and **runtime**.
 
 ---
 
